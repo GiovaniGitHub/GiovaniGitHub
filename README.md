@@ -13,23 +13,29 @@
 ## Languages and Tools
 
 [<code>
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
+<img alt="java" width="60px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 </code>](https://docs.oracle.com/en/java/)
 [<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
+<img alt="python" width="60px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
-<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
+<img alt="typescript" width="60px" src="https://img.icons8.com/color/240/000000/typescript.png">
 </code>](https://www.typescriptlang.org/)
 [<code>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+<img alt="Node.js" width="60px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
 [<code>
-<img alt="Numpy" width="26px" src="https://img.icons8.com/color/2x/numpy.png">
+<img alt="Numpy" width="60px" src="https://img.icons8.com/color/2x/numpy.png">
 </code>](https://numpy.org/)
 [<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+<img alt="visual studio code" width="64px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
+[<code>
+<img alt="Scipy" width="60px" src=".imgs/scipy.svg" />
+</code>](https://scipy.org/)
+[<code>
+<img alt="Scipy" width="80px" src=".imgs/scikit.png" />
+</code>](https://scikit-learn.org/)
 <!--  	https://img.icons8.com/color/2x/numpy.png -->
   
 ## Stats
