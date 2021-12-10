@@ -39,7 +39,7 @@
 <!--  	https://img.icons8.com/color/2x/numpy.png -->
   
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniGitHub&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniGitHub&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniGitHub&langs_count=6&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniGitHub&langs_count=6&theme=default)](https://github.com/anuraghazra/github-readme-stats)
