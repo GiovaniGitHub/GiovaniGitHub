@@ -47,8 +47,11 @@
 [<code>
 <img alt="Keras" width="40px" src=".imgs/keras.png" />
 </code>](https://keras.io/)
+[<code>
+<img alt="Keras" width="40px" src=".imgs/pandas.svg" />
+</code>](https://pandas.pydata.org/)
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniGitHub&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniGitHub&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniGitHub&langs_count=6&theme=default)](https://github.com/anuraghazra/github-readme-stats)
