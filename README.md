@@ -30,6 +30,9 @@
 <img alt="Node.js" width="40px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
 [<code>
+<img alt="Pandas" width="36px" src=".imgs/pandas.svg" />
+</code>](https://pandas.pydata.org/)
+[<code>
 <img alt="Numpy" width="40px" src="https://img.icons8.com/color/2x/numpy.png">
 </code>](https://numpy.org/)
 [<code>
@@ -47,9 +50,7 @@
 [<code>
 <img alt="Keras" width="40px" src=".imgs/keras.png" />
 </code>](https://keras.io/)
-[<code>
-<img alt="Pandas" width="36px" src=".imgs/pandas.svg" />
-</code>](https://pandas.pydata.org/)
+
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniGitHub&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
