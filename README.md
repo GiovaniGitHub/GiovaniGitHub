@@ -13,39 +13,39 @@
 ## Languages and Tools
 ### Languages
 [<code>
-<img alt="java" width="50px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
+<img alt="java" width="40px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 </code>](https://docs.oracle.com/en/java/)
 [<code>
-<img alt="python" width="50px" src="https://img.icons8.com/color/240/000000/python.png">
+<img alt="python" width="40px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
-<img alt="typescript" width="50px" src="https://img.icons8.com/color/240/000000/typescript.png">
+<img alt="typescript" width="40px" src="https://img.icons8.com/color/240/000000/typescript.png">
 </code>](https://www.typescriptlang.org/)
 [<code>
-<img alt="typescript" width="50px" src=".imgs/golang.png">
+<img alt="typescript" width="40px" src=".imgs/golang.png">
 </code>](https://www.typescriptlang.org/)
 
 ### Tools
 [<code>
-<img alt="Node.js" width="50px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+<img alt="Node.js" width="40px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
 [<code>
-<img alt="Numpy" width="50px" src="https://img.icons8.com/color/2x/numpy.png">
+<img alt="Numpy" width="40px" src="https://img.icons8.com/color/2x/numpy.png">
 </code>](https://numpy.org/)
 [<code>
-<img alt="visual studio code" width="50px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+<img alt="visual studio code" width="40px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
-<img alt="Scipy" width="50px" src=".imgs/scipy.svg" />
+<img alt="Scipy" width="40px" src=".imgs/scipy.svg" />
 </code>](https://scipy.org/)
 [<code>
-<img alt="Scipy" width="74px" src=".imgs/scikit.png" />
+<img alt="Scipy" width="64px" src=".imgs/scikit.png" />
 </code>](https://scikit-learn.org/)
 [<code>
-<img alt="Tensorflow" width="46px" src=".imgs/tensorflow.svg" />
+<img alt="Tensorflow" width="40px" src=".imgs/tensorflow.svg" />
 </code>](https://www.tensorflow.org/)
 [<code>
-<img alt="Keras" width="46px" src=".imgs/keras.png" />
+<img alt="Keras" width="40px" src=".imgs/keras.png" />
 </code>](https://keras.io/)
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniGitHub&theme=default)](https://github.com/anuraghazra/github-readme-stats)
