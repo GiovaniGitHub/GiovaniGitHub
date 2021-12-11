@@ -36,8 +36,12 @@
 [<code>
 <img alt="Scipy" width="74px" src=".imgs/scikit.png" />
 </code>](https://scikit-learn.org/)
-<!--  	https://img.icons8.com/color/2x/numpy.png -->
-  
+[<code>
+<img alt="Tensorflow" width="50px" src=".imgs/tensorflow.svg" />
+</code>](https://www.tensorflow.org/)
+[<code>
+<img alt="Keras" width="74px" src=".imgs/tensorflow.svg" />
+</code>](https://keras.io/)
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniGitHub&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
