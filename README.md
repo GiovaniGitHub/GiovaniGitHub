@@ -11,7 +11,7 @@
 - 📫 How to reach me: <a href="mailto:giovani.angelo@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/giovaninobrega/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ## Languages and Tools
-
+### Languages
 [<code>
 <img alt="java" width="50px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 </code>](https://docs.oracle.com/en/java/)
@@ -21,6 +21,11 @@
 [<code>
 <img alt="typescript" width="50px" src="https://img.icons8.com/color/240/000000/typescript.png">
 </code>](https://www.typescriptlang.org/)
+[<code>
+<img alt="typescript" width="50px" src=".imgs/golang.png">
+</code>](https://www.typescriptlang.org/)
+
+### Tools
 [<code>
 <img alt="Node.js" width="50px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
@@ -37,10 +42,10 @@
 <img alt="Scipy" width="74px" src=".imgs/scikit.png" />
 </code>](https://scikit-learn.org/)
 [<code>
-<img alt="Tensorflow" width="50px" src=".imgs/tensorflow.svg" />
+<img alt="Tensorflow" width="46px" src=".imgs/tensorflow.svg" />
 </code>](https://www.tensorflow.org/)
 [<code>
-<img alt="Keras" width="74px" src=".imgs/tensorflow.svg" />
+<img alt="Keras" width="46px" src=".imgs/keras.png" />
 </code>](https://keras.io/)
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniGitHub&theme=default)](https://github.com/anuraghazra/github-readme-stats)
