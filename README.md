@@ -48,7 +48,7 @@
 <img alt="Keras" width="40px" src=".imgs/keras.png" />
 </code>](https://keras.io/)
 [<code>
-<img alt="Keras" width="40px" src=".imgs/pandas.svg" />
+<img alt="Pandas" width="36px" src=".imgs/pandas.svg" />
 </code>](https://pandas.pydata.org/)
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniGitHub&theme=default)](https://github.com/anuraghazra/github-readme-stats)
