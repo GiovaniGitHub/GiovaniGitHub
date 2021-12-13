@@ -22,6 +22,9 @@
 <img alt="typescript" width="40px" src="https://img.icons8.com/color/240/000000/typescript.png">
 </code>](https://www.typescriptlang.org/)
 [<code>
+<img alt="javascript" width="40px" src="https://img.icons8.com/color/48/000000/javascript.png">
+</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code>
 <img alt="typescript" width="40px" src=".imgs/golang.png">
 </code>](https://www.typescriptlang.org/)
 
