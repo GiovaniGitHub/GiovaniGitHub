@@ -53,6 +53,9 @@
 [<code>
 <img alt="Keras" width="40px" src=".imgs/keras.png" />
 </code>](https://keras.io/)
+[<code>
+<img alt="Keras" width="40px" src=".imgs/vertical-logo-monochromatic.png" />
+</code>](https://www.docker.com/)
 
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniGitHub&theme=default)](https://github.com/anuraghazra/github-readme-stats)
