@@ -33,7 +33,7 @@
 <img alt="Node.js" width="40px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
 [<code>
-<img alt="Pandas" width="36px" src=".imgs/pandas.svg" />
+<img alt="Pandas" width="35px" src=".imgs/pandas.svg" />
 </code>](https://pandas.pydata.org/)
 [<code>
 <img alt="Numpy" width="40px" src="https://img.icons8.com/color/2x/numpy.png">
@@ -48,10 +48,10 @@
 <img alt="Scipy" width="64px" src=".imgs/scikit.png" />
 </code>](https://scikit-learn.org/)
 [<code>
-<img alt="Tensorflow" width="40px" src=".imgs/tensorflow.svg" />
+<img alt="Tensorflow" width="38px" src=".imgs/tensorflow.svg" />
 </code>](https://www.tensorflow.org/)
 [<code>
-<img alt="Keras" width="40px" src=".imgs/keras.png" />
+<img alt="Keras" width="35px" src=".imgs/keras.png" />
 </code>](https://keras.io/)
 [<code>
 <img alt="Keras" width="40px" src=".imgs/vertical-logo-monochromatic.png" />
