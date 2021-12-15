@@ -26,7 +26,7 @@
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
 <img alt="typescript" width="40px" src=".imgs/golang.png">
-</code>](https://www.typescriptlang.org/)
+</code>](https://go.dev/)
 
 ### Tools
 [<code>
