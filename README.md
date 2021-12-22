@@ -8,7 +8,7 @@
 - 🌱 Currently learning : Golang and Data Engineering.
 - 💬 Ask me about: Python, Mathematics, Statistical Models, Data science.
 - 😄 Pronouns: He/His.
-- 📫 How to reach me: <a href="mailto:giovani.angelo@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/giovaninobrega/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+- 📫 How to reach me: <a href="mailto:giovani.angelo@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/giovaninobrega/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.hackerrank.com/giovani_angelo">![Hackerhank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 
 ## Languages and Tools
 ### Languages
