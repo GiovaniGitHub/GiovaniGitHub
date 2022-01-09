@@ -25,7 +25,7 @@
 <img alt="javascript" width="40px" src="https://img.icons8.com/color/48/000000/javascript.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
-<img alt="typescript" width="40px" src=".imgs/golang.png">
+<img alt="golang" width="40px" src=".imgs/golang.png">
 </code>](https://go.dev/)
 [<code>
 <img alt="rust" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png"/></code>](https://www.rust-lang.org/)
