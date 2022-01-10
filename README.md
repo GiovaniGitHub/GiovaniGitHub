@@ -47,7 +47,7 @@
 <img alt="Scipy" width="40px" src=".imgs/scipy.svg" />
 </code>](https://scipy.org/)
 [<code>
-<img alt="scikit" width="64px" src=".imgs/scikit.png" />
+<img alt="scikit" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 </code>](https://scikit-learn.org/)
 [<code>
 <img alt="Tensorflow" width="38px" src=".imgs/tensorflow.svg" />
