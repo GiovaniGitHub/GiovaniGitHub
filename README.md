@@ -56,7 +56,7 @@
 <img alt="Keras" width="35px" src=".imgs/keras.png" />
 </code>](https://keras.io/)
 [<code>
-<img alt="Docker" width="40px" src=".imgs/vertical-logo-monochromatic.png" />
+<img alt="Docker" width="40px" src="https://img.icons8.com/fluency/48/000000/docker.png" />
 </code>](https://www.docker.com/)
 
 ## Stats
