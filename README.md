@@ -62,6 +62,6 @@
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniGitHub&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Giovani Nóbrega's github activity graph](https://activity-graph.herokuapp.com/graph?username=GiovaniGithub&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Giovani Nóbrega's github activity graph](https://activity-graph.herokuapp.com/graph?username=GiovaniGithub&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniGitHub&langs_count=7&theme=default)](https://github.com/anuraghazra/github-readme-stats)
