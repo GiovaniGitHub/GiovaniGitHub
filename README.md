@@ -64,4 +64,4 @@
 
 [![Giovani Nóbrega's github activity graph](https://activity-graph.herokuapp.com/graph?username=GiovaniGithub&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniGithub)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniGithub&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
