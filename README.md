@@ -12,55 +12,56 @@
 
 ## Languages and Tools
 ### Languages
-[<code>
+[
 <img alt="java" width="40px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
+](https://docs.oracle.com/en/java/)
+[
 <img alt="python" width="40px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
+](https://www.python.org/)
+[
 <img alt="typescript" width="40px" src="https://img.icons8.com/color/240/000000/typescript.png">
-</code>](https://www.typescriptlang.org/)
-[<code>
+](https://www.typescriptlang.org/)
+[
 <img alt="javascript" width="40px" src="https://img.icons8.com/color/48/000000/javascript.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
+](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[
 <img alt="golang" width="40px" src=".imgs/golang.png">
-</code>](https://go.dev/)
-[<code>
-<img alt="rust" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png"/></code>](https://www.rust-lang.org/)
+](https://go.dev/)
+[
+<img alt="rust" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png"/>](https://www.rust-lang.org/)
 
 ### Tools
-[<code>
+[
 <img alt="Node.js" width="40px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-[<code>
+](https://nodejs.org/en/)
+[
 <img alt="Pandas" width="35px" src=".imgs/pandas.svg" />
-</code>](https://pandas.pydata.org/)
-[<code>
+](https://pandas.pydata.org/)
+[
 <img alt="Numpy" width="40px" src="https://img.icons8.com/color/2x/numpy.png">
-</code>](https://numpy.org/)
-[<code>
+](https://numpy.org/)
+[
 <img alt="visual studio code" width="40px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
+](https://code.visualstudio.com/)
+[
 <img alt="Scipy" width="40px" src=".imgs/scipy.svg" />
-</code>](https://scipy.org/)
-[<code>
+](https://scipy.org/)
+[
 <img alt="scikit" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-</code>](https://scikit-learn.org/)
-[<code>
+](https://scikit-learn.org/)
+[
 <img alt="Tensorflow" width="38px" src=".imgs/tensorflow.svg" />
-</code>](https://www.tensorflow.org/)
-[<code>
+](https://www.tensorflow.org/)
+[
 <img alt="Keras" width="35px" src=".imgs/keras.png" />
-</code>](https://keras.io/)
-[<code>
+](https://keras.io/)
+[
 <img alt="Docker" width="40px" src="https://img.icons8.com/fluency/48/000000/docker.png" />
-</code>](https://www.docker.com/)
+](https://www.docker.com/)
 
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniGitHub&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniGithub&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
