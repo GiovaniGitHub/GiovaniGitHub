@@ -59,9 +59,9 @@
 <img alt="Docker" width="40px" src="https://img.icons8.com/fluency/48/000000/docker.png" />
 ](https://www.docker.com/)
 
-## Stats
+<!-- ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniGitHub&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniGithub&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniGithub&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
