@@ -35,7 +35,7 @@
 <img alt="Node.js" width="40px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 ](https://nodejs.org/en/)
 [
-<img alt="Pandas" width="35px" src=".imgs/pandas.svg" />
+<img alt="Pandas" width="35px" src="https://pandas.pydata.org//static/img/favicon_white.ico" />
 ](https://pandas.pydata.org/)
 [
 <img alt="Numpy" width="40px" src="https://img.icons8.com/color/2x/numpy.png">
