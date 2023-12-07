@@ -28,7 +28,7 @@
 <img alt="golang" width="40px" src=".imgs/golang.png">
 ](https://go.dev/)
 [
-<img alt="rust" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png"/>](https://www.rust-lang.org/)
+<img alt="rust" width="40px" src="https://www.fpcomplete.com/wp-content/uploads/2023/04/rust-logo-512x512_white.png"/>](https://www.rust-lang.org/)
 
 ### Tools
 [
