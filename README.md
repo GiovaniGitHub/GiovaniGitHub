@@ -13,52 +13,53 @@
 ## Languages and Tools
 ### Languages
 [
-<img alt="java" width="40px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
+<img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 ](https://docs.oracle.com/en/java/)
 [
-<img alt="python" width="40px" src="https://img.icons8.com/color/240/000000/python.png">
+<img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 ](https://www.python.org/)
 [
-<img alt="typescript" width="40px" src="https://img.icons8.com/color/240/000000/typescript.png">
+<img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 ](https://www.typescriptlang.org/)
 [
-<img alt="javascript" width="40px" src="https://img.icons8.com/color/48/000000/javascript.png">
+<img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [
-<img alt="golang" width="40px" src=".imgs/golang.png">
+<img alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 ](https://go.dev/)
-[
-<img alt="rust" width="40px" src="https://www.fpcomplete.com/wp-content/uploads/2023/04/rust-logo-512x512_white.png"/>](https://www.rust-lang.org/)
+[<img alt="rust" width="90px" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>](https://www.rust-lang.org/)
 
 ### Tools
 [
-<img alt="Node.js" width="40px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-](https://nodejs.org/en/)
+<img alt="Apache Solr" src="https://img.shields.io/badge/Apache%20Solr-D9411E?logo=apachesolr&logoColor=fff&style=for-the-badge" />
+](https://solr.apache.org/)
 [
-<img alt="Pandas" width="35px" src="https://pandas.pydata.org//static/img/favicon_white.ico" />
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge" />
 ](https://pandas.pydata.org/)
 [
-<img alt="Numpy" width="40px" src="https://img.icons8.com/color/2x/numpy.png">
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge" alt="NumPy">
 ](https://numpy.org/)
 [
-<img alt="visual studio code" width="40px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-](https://code.visualstudio.com/)
-[
-<img alt="Scipy" width="40px" src=".imgs/scipy.svg" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=fff&style=for-the-badge" alt="SciPy">
 ](https://scipy.org/)
 [
-<img alt="scikit" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge" alt="scikit-learn">
 ](https://scikit-learn.org/)
 [
-<img alt="Tensorflow" width="38px" src=".imgs/tensorflow.svg" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge" alt="TensorFlow">
 ](https://www.tensorflow.org/)
 [
-<img alt="Keras" width="35px" src=".imgs/keras.png" />
+<img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=for-the-badge" alt="Keras">
 ](https://keras.io/)
 [
-<img alt="Docker" width="40px" src="https://img.icons8.com/fluency/48/000000/docker.png" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker">
 ](https://www.docker.com/)
-
+[
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge" alt="Kubernetes">
+](https://kubernetes.io/)
+[
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=for-the-badge" alt="Apache Airflow Badge">
+](https://airflow.apache.org/)
 <!-- ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniGitHub&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
