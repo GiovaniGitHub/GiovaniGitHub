@@ -5,7 +5,7 @@
 <br />
 
 - 🔭 I am currently working as a Backend Engineer and Data Scientist.
-- 🌱 Currently learning : Golang and Data Engineering.
+- 🌱 Currently learning : Golang, Kubernetes, LLM, Data Engineering.
 - 💬 Ask me about: Python, Mathematics, Statistical Models, Data science.
 - 😄 Pronouns: He/His.
 - 📫 How to reach me: <a href="mailto:giovani.angelo@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/giovaninobrega/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.hackerrank.com/giovani_angelo">![Hackerhank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
