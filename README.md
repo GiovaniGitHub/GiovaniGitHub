@@ -75,6 +75,9 @@
 [
 <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge" alt="Flask">
 ](https://flask.palletsprojects.com/en/3.0.x/)
+[
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge" alt="Apache Kafka">
+](https://kafka.apache.org/)
 <!-- ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniGitHub&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
