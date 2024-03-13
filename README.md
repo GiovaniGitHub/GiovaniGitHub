@@ -58,8 +58,23 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge" alt="Kubernetes">
 ](https://kubernetes.io/)
 [
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=for-the-badge" alt="Apache Airflow Badge">
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=for-the-badge" alt="Apache Airflow">
 ](https://airflow.apache.org/)
+[
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" alt="PyTorch">
+](https://pytorch.org/)
+[
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL">
+](https://www.postgresql.org/)
+[
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL">
+](https://www.mysql.com/)
+[
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge" alt="FastAPI">
+](https://fastapi.tiangolo.com/)
+[
+<img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=for-the-badge" alt="Flask">
+](https://flask.palletsprojects.com/en/3.0.x/)
 <!-- ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovaniGitHub&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
